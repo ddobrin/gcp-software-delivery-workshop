@@ -10,3 +10,4 @@ backend.tf
 .DS_Store
 
 .firebase/
+.idea/
